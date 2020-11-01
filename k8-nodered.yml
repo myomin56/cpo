@@ -28,4 +28,4 @@ spec:
         - name: hostvol
           persistentVolumeClaim:
             # PVC name you created
-            claimName: nodered-pvc 
+            claimName: nodered-pvc  
